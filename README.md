@@ -1,4 +1,4 @@
-Angular2 Weather app
+Angular2 WeatherUSA app
 =================================
 
 A basic Angular2 application with Gulp as build system.
